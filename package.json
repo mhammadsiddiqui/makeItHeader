@@ -1,6 +1,6 @@
 {
   "name": "makeitheader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Give it a string and it will make it heading",
   "main": "index.js",
   "scripts": {
