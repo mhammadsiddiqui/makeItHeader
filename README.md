@@ -1,5 +1,6 @@
 # makeItHeader
-Give it a string and it will make it heading
+Give it a string and it will add *** in start and end.
+like heading will be returned as ***heading***
 
 # Installation
 
