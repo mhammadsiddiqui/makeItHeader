@@ -1,6 +1,6 @@
 # makeItHeader
 Give it a string and it will add *** in start and end.
-like heading will be returned as ***heading***
+like heading will be returned as *** heading ***
 
 # Installation
 
